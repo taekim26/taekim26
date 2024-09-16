@@ -1,6 +1,6 @@
 - 👋 Hi, I’m taeyeung!
-- 👀 I’m interested in Machine Learning, Medicine, and Financial Engineering
-- 🌱 I’m currently majoring in Computer Engineering at Boston University
+- 👀 I’m interested in Machine Learning, Data Science, and Financial Engineering
+- 🌱 I’m currently majoring in Computer Science at Boston University
 - 📫 Contacts: kimty@bu.edu or kimtaeyeung26@gmail.com
 - 😄 Pronouns: he/him/his
 
