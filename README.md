@@ -1,5 +1,5 @@
 - 👋 Hi, I’m taeyeung!
-- 👀 I’m interested in Big Data, Machine Learning, and Financial Engineering
+- 👀 I’m interested in Distributed Systems and Cloud Computing
 - 🌱 I’m currently majoring in Computer Science at Boston University
 - 📫 Contacts: kimty@bu.edu or kimtaeyeung26@gmail.com
 - 😄 Pronouns: he/him/his
