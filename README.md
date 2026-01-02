@@ -1,7 +1,7 @@
 - 👋 Hi, I’m taeyeung!
-- 👀 I’m interested in AI+Medicine, Computational Biology, and Machine Learning
+- 👀 I’m interested in AI+Medicine and Blockchain
 - 🌱 I’m currently majoring in Computer Science at Boston University
-- 📫 Contacts: kimty@bu.edu or kimtaeyeung26@gmail.com
+- 📫 Contacts: kimty@bu.edu
 - 😄 Pronouns: he/him/his
 
 <!---
