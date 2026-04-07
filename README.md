@@ -1,5 +1,5 @@
 - 👋 Hi, I’m taeyeung!
-- 👀 I’m interested in Machine Learning and Physical AI
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently majoring in Computer Science at Boston University
 - 📫 Contacts: kimty@bu.edu
 - 😄 Pronouns: he/him/his
